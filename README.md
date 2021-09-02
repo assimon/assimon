@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=assimon&show_icons=true&hide_border=true&theme=vue-dark" />     
+
 ```
 $HelloWorld = "Hi guys👋，Welcome to my homepage";
 
@@ -21,3 +21,6 @@ My idol is Iron Man, The city where I live has pandas🐼，and my favorite food
 How about you?
 
 ```
+
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=assimon&show_icons=true&hide_border=true&theme=vue-dark" />     
+
