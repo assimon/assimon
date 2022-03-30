@@ -14,7 +14,7 @@ func main()  {
 }
 
 
-Yes, that's right，I am a software engineer，Occupation is a go software engineer。   
+Yes, that's right，I am a software engineer，Occupation is a golang software engineer。   
 
 But at the same time I also like python and php. Recently I am learning Vue.js and Node.js。
 
