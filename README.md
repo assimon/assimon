@@ -5,7 +5,7 @@ func main()  {
   var HelloWorld = "Hi guys👋，Welcome to my homepage"
 
   my :=  &My{}
-  my.Name = "Simon Bell"
+  my.Name = "Simon"
   my.Country = "China"
   my.Area = "ChengDu"
   my.Gender = "Man"
@@ -14,7 +14,7 @@ func main()  {
 }
 
 
-Yes, that's right，I am a software engineer，Occupation is a golang software engineer。   
+Yes, that's right，I am a software engineer，Working on go language software development。   
 
 But at the same time I also like python and php. Recently I am learning Vue.js and Node.js。
 
