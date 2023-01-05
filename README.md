@@ -9,8 +9,6 @@ func main()  {
   my.Country = "China"
   my.Area = "ChengDu"
   my.Gender = "Man"
-  my.BlogAddress = "https://utf8.hk"
-  
 }
 
 
@@ -18,7 +16,7 @@ Yes, that's right，I am a software engineer，Working on go language software d
 
 But at the same time I also like python and php. Recently I am learning Vue.js and Node.js。
 
-My idol is Iron Man, The city where I live has pandas🐼，and my favorite food is hot pot 🍲(because I live in Sichuan, you know)。
+My favorite band is Linkin Park, The city where I live has pandas🐼，and my favorite food is hot pot 🍲(because I live in Sichuan, you know)。
 
 How about you?
 
